@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App_RadioButton</string>
+    <string name="tv1">Calculadora con opciones</string>
+    <string name="tv2">Resultado</string>
+    <string name="valor1">Ingresa el valor 1</string>
+    <string name="valor2">Ingresa el valor 2</string>
+    <string name="op_sum">sumale</string>
+    <string name="op_res">restale</string>
+    <string name="op_mult">multiplicale</string>
+    <string name="op_div">dividele</string>
+    <string name="op_exp">exponente</string>
+    <string name="calc">Puchale</string>
+</resources>

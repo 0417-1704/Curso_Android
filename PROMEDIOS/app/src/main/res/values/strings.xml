@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PROMEDIOS MIRREYES</string>
+    <string name= "txt_view">Checa tu promedio principe</string>
+    <string name= "txt_fisica">Ingresa la calificación de física</string>
+    <string name= "txt_mate">Ingresa la calificación de matemáticas</string>
+    <string name= "txt_quimica">Ingresa la calificación de química</string>
+    <string name= "button">Checale papi</string>
+</resources>

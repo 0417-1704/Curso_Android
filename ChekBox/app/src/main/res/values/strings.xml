@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Aplicacion_Check_Box</string>
+    <string name="tv1">Aplicación con Ckeck Box</string>
+    <string name="tv2">Resultado</string>
+    <string name="button">Calcular</string>
+    <string name="ed1">Ingresa el número 1</string>
+    <string name="ed2">Ingresa el número 2</string>
+    <string name="cb1">Sumar</string>
+    <string name="cb2">Restar</string>
+    <string name="cb3">Multiplicar</string>
+    <string name="cb4">Dividir</string>
+    <string name="cb5">Exponente</string>
 </resources>

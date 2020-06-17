@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">ControlSpinner</string>
+    <string name="tv1">App con ControlSpinner</string>
+    <string name="tv2">RESULTADO</string>
+    <string name="button">CALCULAR</string>
+    <string name="ed1">Ingresa el valor 1</string>
+    <string name="ed2">Ingresa el valor 2</string>
+    <string name="cs">OPCIONES</string>
+    <string name="s1">Sumar</string>
+    <string name="s2">Restar</string>
+    <string name="s3">Multiplicar</string>
+    <string name="s4">Dividir</string>
+    <string name="s5">Exponente</string>
+
 </resources>

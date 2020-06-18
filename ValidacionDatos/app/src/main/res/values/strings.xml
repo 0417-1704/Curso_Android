@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ValidacionDatos</string>
+    <string name="tv1">App de validación de datos</string>
+    <string name="txt1">Nombre</string>
+    <string name="txt2">Contraseña</string>
+    <string name="but">REGISTRAR</string>
+
+</resources>

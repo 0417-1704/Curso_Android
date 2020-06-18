@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CambioDeActivity</string>
+    <string name="tv1">PANTALLA 1</string>
+    <string name="b1">SIGUIENTE</string>
+    <string name="tv2">PANTALLA 2</string>
+    <string name="b2">ANTERIOR</string>
+</resources>

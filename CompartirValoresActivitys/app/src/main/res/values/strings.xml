@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CompartirValoresActivitys</string>
+    <string name="tv1">Pimer pantalla, ingresa un nombre</string>
+    <string name="tv2">Segunda pantalla, resultado</string>
+    <string name="txt1">Ingresa un nombre</string>
+    <string name="tv3">Aquí ira tu nombre</string>
+    <string name="b1">Enviar</string>
+    <string name="b2">Volver</string>
+</resources>

@@ -4,6 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/analysis_2030265"
     tools:context=".Catalogo">
 
+    <ahmed.easyslider.EasySlider
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:id="@+id/slider"
+        >
+
+    </ahmed.easyslider.EasySlider>
 </androidx.constraintlayout.widget.ConstraintLayout>

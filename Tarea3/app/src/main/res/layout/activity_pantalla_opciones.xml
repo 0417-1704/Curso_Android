@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sci_fi_2992797_1920"
+    tools:context=".PantallaOpciones">
+
+    <TextView
+        android:id="@+id/tvpo"
+        android:layout_width="144dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/tvpo"
+        android:textColor="#DAF4EE"
+        android:textColorHighlight="#FFFFFF"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ibpo" />
+
+    <ListView
+        android:id="@+id/lvpo"
+        android:layout_width="383dp"
+        android:layout_height="306dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvpo" />
+
+    <TextView
+        android:id="@+id/tv2po"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/tv2po"
+        android:textColor="#000000"
+        android:textSize="10sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lvpo" />
+
+    <Button
+        android:id="@+id/b1po"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="12dp"
+        android:background="#A6FFFFFF"
+        android:backgroundTint="#FFFFFF"
+        android:onClick="siguiente"
+        android:text="@string/b1po"
+        android:textColor="#FFFFFF"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv2po" />
+
+    <ImageButton
+        android:id="@+id/ibpo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="4dp"
+        android:background="#00FFFFFF"
+        android:contentDescription="TODO"
+        android:onClick="volver"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/ic_menu_revert" />
+</androidx.constraintlayout.widget.ConstraintLayout>

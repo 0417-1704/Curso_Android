@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/surgical_mask_5064244_1920"
+    tools:context=".Contacto">
+
+    <Button
+        android:id="@+id/b1pcont"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="72dp"
+        android:background="#6BFFFFFF"
+        android:onClick="inicio"
+        android:text="@string/b1pcont"
+        android:textColor="#206685"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.34"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv1pcont" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#00FFFFFF"
+        android:onClick="regresa"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/abc_vector_test" />
+
+    <TextView
+        android:id="@+id/tv1pcont"
+        android:layout_width="241dp"
+        android:layout_height="160dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="84dp"
+        android:text="TextView"
+        android:textColor="#69C8F3"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton2" />
+</androidx.constraintlayout.widget.ConstraintLayout>

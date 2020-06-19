@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tarea3</string>
+    <string name="tv1p1">BIENVENIDO</string>
+    <string name="b1p1">SIGUIENTE</string>
+    <string name="tvpo">COMENCEMOS</string>
+    <string name="tv2po">Seleccion</string>
+    <string name="b1po">Siguiente</string>
+    <string name="button">Button</string>
+    <string name="tv1ad">ACERCA DE</string>
+    <string name="tv2ad">Dijhba, empresa 100% mexicana lider en el manejo de material de grado
+        quirurjico. Para más imformación, visite www.dihjba.com
+    </string>
+    <string name="b1ad">INICIO</string>
+    <string name="b1pcont">INICIO</string>
+    <string name="tv1pcont">Teléfono personal: 55123456788 "\n"
+        Teléfono de oficina: 5509876543 "\n" 
+        E-mail: dihjba@mail.com</string>
+    <string name="b1pdir">INICIO</string>
+    <string name="tv1pdir">Dirección Sucursal 1: Calle Mineral del campo. Polvillas, Michoacán de Ocampo.
+     Dirección Sucursal 2: Mayapan , San Lorenzo Totolinga. Naucalpan de Juárez, Edo. Méx.</string>
+
+
+</resources>

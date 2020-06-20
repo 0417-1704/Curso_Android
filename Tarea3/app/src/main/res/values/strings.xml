@@ -12,12 +12,28 @@
     </string>
     <string name="b1ad">INICIO</string>
     <string name="b1pcont">INICIO</string>
-    <string name="tv1pcont">Teléfono personal: 55123456788 "\n"
-        Teléfono de oficina: 5509876543 "\n" 
+    <string name="tv1pcont">Teléfono personal: 55123456788
+        Teléfono de oficina: 5509876543
         E-mail: dihjba@mail.com</string>
     <string name="b1pdir">INICIO</string>
     <string name="tv1pdir">Dirección Sucursal 1: Calle Mineral del campo. Polvillas, Michoacán de Ocampo.
      Dirección Sucursal 2: Mayapan , San Lorenzo Totolinga. Naucalpan de Juárez, Edo. Méx.</string>
+    <string name="b1pcat">INICIO</string>
+    <string name="tvpcat">CATALOGO EN MANTENIMIENTO</string>
+    <string name="tv1pres">REGISTRAR USUARIO</string>
+    <string name="tv2pres">INSERTA TU NOMBRE</string>
+    <string name="tv3pres">INSERTA UN E-MAIL</string>
+    <string name="tv4pres">INSERTA UN TELEFONO</string>
+    <string name="b1pres">REGISTRAR USUARIO</string>
+    <string name="b2pres">INICIO</string>
+    <string name="b3pres">BUSCAR USUARIO</string>
+    <string name="b4pres">ELIMINAR USUARIO</string>
+    <string name="b5pres">MODIFICAR USUARIO</string>
+    <string name="txt_men">AQUIVA EL MENSAJE</string>
+    <string name="txt_envias">ESCRIBE UN MENSAJE:</string>
+    <string name="b_enviar">ENVIAR MENSAJE</string>
+
+
 
 
 </resources>

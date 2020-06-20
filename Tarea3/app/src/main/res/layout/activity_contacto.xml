@@ -11,14 +11,14 @@
         android:id="@+id/b1pcont"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="72dp"
+        android:layout_marginTop="16dp"
         android:background="#6BFFFFFF"
         android:onClick="inicio"
         android:text="@string/b1pcont"
         android:textColor="#206685"
         android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.34"
+        app:layout_constraintHorizontal_bias="0.328"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv1pcont" />
 
@@ -36,11 +36,36 @@
         android:id="@+id/tv1pcont"
         android:layout_width="241dp"
         android:layout_height="160dp"
-        android:layout_marginStart="60dp"
-        android:layout_marginTop="84dp"
-        android:text="TextView"
-        android:textColor="#69C8F3"
-        android:textSize="18sp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/tv1pcont"
+        android:textColor="#E4ECEF"
+        android:textSize="14sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageButton2" />
+
+    <EditText
+        android:id="@+id/ed_enviar"
+        android:layout_width="241dp"
+        android:layout_height="91dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:gravity="start|top"
+        android:hint="@string/txt_envias"
+        android:inputType="textMultiLine"
+        android:textColor="#FFFCFC"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/b1pcont" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="84dp"
+        android:layout_marginTop="8dp"
+        android:onClick="enviar"
+        android:text="@string/b_enviar"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ed_enviar" />
 </androidx.constraintlayout.widget.ConstraintLayout>

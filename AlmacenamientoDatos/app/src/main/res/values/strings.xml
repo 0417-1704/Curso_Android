@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AlmacenamientoDatos</string>
+    <string name="mail">INTRODUCE TU E-MAIL</string>
+    <string name="bp1">GUARDAR</string>
+    <string name="bp2">BUSCAR</string>
+
+    <string name="tv1">AGENDA</string>
+    <string name="ed1">INTRODUCE TU NOMBRE</string>
+    <string name="ed2">INTRODUCE TU E-MAIL</string>
+    <string name="ed3">INTRODUCE TU(S) TELEFONO(S)</string>
+</resources>
